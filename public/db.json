@@ -1,0 +1,211 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Cozy Cottage Retreat",
+        "image": "https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720",
+        "description": "Experience tranquility in our charming cottage surrounded by nature.",
+        "price": 100
+      },
+      {
+        "id": 2,
+        "name": "Luxury City View Suite",
+        "image": "https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720",
+        "description": "Indulge in luxury with breathtaking city views from our exclusive suite.",
+        "price": 200
+      },
+      {
+        "id": 3,
+        "name": "Seaside Villa Escape",
+        "image": "https://picsum.photos/800/600?random=3",
+        "description": "Escape to a seaside paradise with our elegant and spacious villa.",
+        "price": 150
+      },
+      {
+        "id": 4,
+        "name": "Modern Urban Loft",
+        "image": "https://picsum.photos/800/600?random=4",
+        "description": "Immerse yourself in the urban lifestyle with our stylish and modern loft.",
+        "price": 120
+      },
+      {
+        "id": 5,
+        "name": "Rustic Mountain Cabin",
+        "image": "https://picsum.photos/800/600?random=5",
+        "description": "Discover serenity in our rustic mountain cabin with breathtaking views.",
+        "price": 80
+      },
+      {
+        "id": 6,
+        "name": "Tranquil Lakeside Lodge",
+        "image": "https://picsum.photos/800/600?random=6",
+        "description": "Unwind by the lake in our peaceful and inviting lakeside lodge.",
+        "price": 130
+      },
+      {
+        "id": 7,
+        "name": "Chic Downtown Apartment",
+        "image": "https://picsum.photos/800/600?random=7",
+        "description": "Experience the heart of the city in our chic and modern downtown apartment.",
+        "price": 180
+      },
+      {
+        "id": 8,
+        "name": "Historic Castle Stay",
+        "image": "https://picsum.photos/800/600?random=8",
+        "description": "Step back in time with a stay in our charming and historic castle.",
+        "price": 250
+      },
+      {
+        "id": 9,
+        "name": "Sunny Beach House",
+        "image": "https://picsum.photos/800/600?random=9",
+        "description": "Enjoy sun, sea, and sand in our bright and sunny beach house.",
+        "price": 160
+      },
+      {
+        "id": 10,
+        "name": "Mountain Chalet Retreat",
+        "image": "https://picsum.photos/800/600?random=10",
+        "description": "Escape to the mountains in our cozy and charming chalet retreat.",
+        "price": 110
+      },
+      {
+        "id": 11,
+        "name": "Urban Skyline Penthouse",
+        "image": "https://picsum.photos/800/600?random=11",
+        "description": "Dazzling views await you in our luxurious urban skyline penthouse.",
+        "price": 300
+      },
+      {
+        "id": 12,
+        "name": "Countryside Manor House",
+        "image": "https://picsum.photos/800/600?random=12",
+        "description": "Experience the charm of the countryside in our grand manor house.",
+        "price": 220
+      },
+      {
+        "id": 13,
+        "name": "Tropical Oasis Villa",
+        "image": "https://picsum.photos/800/600?random=13",
+        "description": "Escape to a tropical paradise in our lush and serene oasis villa.",
+        "price": 190
+      },
+      {
+        "id": 14,
+        "name": "Snowy Mountain Retreat",
+        "image": "https://picsum.photos/800/600?random=14",
+        "description": "Embrace the winter wonderland in our cozy snowy mountain retreat.",
+        "price": 120
+      },
+      {
+        "id": 15,
+        "name": "Riverside Cabin Getaway",
+        "image": "https://picsum.photos/800/600?random=15",
+        "description": "Unplug and recharge in our charming riverside cabin getaway.",
+        "price": 90
+      },
+      {
+        "id": 16,
+        "name": "Luxurious Safari Tent",
+        "image": "https://picsum.photos/800/600?random=16",
+        "description": "Experience the wild in comfort with our luxurious safari tent.",
+        "price": 170
+      },
+      {
+        "id": 17,
+        "name": "Garden View Bungalow",
+        "image": "https://picsum.photos/800/600?random=17",
+        "description": "Surrounded by lush gardens, our bungalow is a perfect peaceful retreat.",
+        "price": 110
+      },
+      {
+        "id": 18,
+        "name": "Cityscape Studio Loft",
+        "image": "https://picsum.photos/800/600?random=18",
+        "description": "Live in style with stunning city views from our studio loft.",
+        "price": 150
+      },
+      {
+        "id": 19,
+        "name": "Desert Oasis Resort",
+        "image": "https://picsum.photos/800/600?random=19",
+        "description": "Escape to the desert and indulge in luxury at our oasis resort.",
+        "price": 200
+      },
+      {
+        "id": 20,
+        "name": "Secluded Forest Cabin",
+        "image": "https://picsum.photos/800/600?random=20",
+        "description": "Find peace and quiet in our secluded forest cabin surrounded by nature.",
+        "price": 95
+      }
+    ],
+    
+    "nearby": [
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPYTxQPMcBh7SPzLFActXnP3uhifeVT_g&usqp=CAU",
+          "location": "Private room in center of London",
+          "title": "Stay at this spacious Edwardian House",
+          "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+          "star": 4.73,
+          "price": "₹30 / night",
+          "total": "₹117 total"
+        },
+        {
+          "img": "https://a0.muscache.com/im/pictures/9a9b3bfe-a620-4ee3-a44f-f028389bbd94.jpg?im_w=1200",
+          "location": "Private room in center of London",
+          "title": "Independant luxury studio apartment",
+          "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+          "star": 4.3,
+          "price": "₹40 / night",
+          "total": "₹157 total"
+        },
+        {
+          "img": "https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg",
+          "location": "Private room in center of London",
+          "title": "London Studio Apartments",
+          "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+          "star": 3.8,
+          "price": "₹35 / night",
+          "total": "₹207 total"
+        },
+        {
+          "img": "https://cdn.bisnow.net/fit?height=489&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F05%2F59151d0978bbf_https_press_atairbnb_com_app_uploads_2016_12_midtown_4.jpeg&width=717&sign=FeltIPi9cOWA36nVIeDvZxwgtiCZrpUyMRdvyZviTUI",
+          "location": "Private room in center of London",
+          "title": "30 mins to Oxford Street, Excel London",
+          "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+          "star": 4.1,
+          "price": "₹55 / night",
+          "total": "₹320 total"
+        },
+        {
+          "img": "https://media.cntraveler.com/photos/5a8f258bd363c34048b35aac/master/w_2250,h_1500,c_limit/airbnb-plus-london.jpg",
+          "location": "Private room in center of London",
+          "title": "Spacious Peaceful Modern Bedroom",
+          "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
+          "star": 5.0,
+          "price": "₹60 / night",
+          "total": "₹450 total"
+        },
+        {
+          "img": "https://static.trip101.com/paragraph_media/pictures/001/676/061/large/969ae4bb-efd1-4fb9-a4e3-5cb3316dd3c9.jpg?1562227937",
+          "location": "Private room in center of London",
+          "title": "The Blue Room In London",
+          "description": "2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
+          "star": 4.23,
+          "price": "₹65 / night",
+          "total": "₹480 total"
+        },
+        {
+          "img": "https://image.insider.com/585029a0dd0895bc548b4b8b?width=750&format=jpeg&auto=webp",
+          "location": "Private room in center of London",
+          "title": "5 Star Luxury Apartment",
+          "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+          "star": 3.85,
+          "price": "₹90 / night",
+          "total": "₹650 total"
+        }
+      ]
+}
+    

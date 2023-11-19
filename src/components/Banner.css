@@ -1,0 +1,44 @@
+.banner {
+    background: url("https://d27p8o2qkwv41j.cloudfront.net/wp-content/uploads/2016/06/dreamstime_m_4794570-e1467280605773.jpg") center center;
+    height: 50vh;
+    position: relative;
+}
+.banner_info {
+    background-color: black;
+    color: white;
+    padding: 20px; /* Adjust padding as needed */
+    width: 250px; /* Adjust width as needed */
+    max-width: 80%; /* Adjust max-width as needed */
+    margin: 0; /* Center the box horizontally */
+    height: 40vh; /* Adjust the height as needed */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+}
+
+.banner_search_button {
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+
+.banner_search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_info>button {
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    margin-top: 10px; /* Adjust margin as needed */
+    font-weight: 600;
+}
+
+.banner_info>button:hover {
+    background-color: white;
+    color: black;
+    /* margin-top: 30px; */
+    font-weight: 600;
+}
